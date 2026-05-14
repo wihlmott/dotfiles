@@ -27,3 +27,5 @@ function ls {
 function ll {
     eza -l --icons --group-directories-first --git
 }
+
+Invoke-Expression (&starship init powershell)

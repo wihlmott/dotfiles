@@ -1,4 +1,8 @@
 {
+	"dismissedBadges" : 
+	[
+		"page.extensions"
+	],
 	"generatedProfiles" : 
 	[
 		"{574e775e-4f2a-5b96-ac1e-a2962a402336}",
@@ -6,6 +10,6 @@
 		"{a2f9bb43-f5d6-5008-b1b7-60f84d54788a}",
 		"{d8cbe7a6-c3f7-59e1-82cb-79c839effaa9}"
 	],
-	"settingsHash" : "728f07a48a092f51-01dce30a2b08f0f6",
+	"settingsHash" : "611e944476c35dc3-01dce3291e0daf35",
 	"sshFolderGenerated" : false
 }

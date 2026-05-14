@@ -11,3 +11,5 @@ opt.expandtab = true
 opt.wrap = false
 opt.clipboard = "unnamedplus"
 opt.termguicolors = true
+
+vim.g.lazyvim_prefer_wget = 1
