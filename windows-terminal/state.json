@@ -7,9 +7,11 @@
 	[
 		"{574e775e-4f2a-5b96-ac1e-a2962a402336}",
 		"{b453ae62-4e3d-5e58-b989-0a998ec441b8}",
+		"{51855cb2-8cce-5362-8f54-464b92b32386}",
 		"{a2f9bb43-f5d6-5008-b1b7-60f84d54788a}",
-		"{d8cbe7a6-c3f7-59e1-82cb-79c839effaa9}"
+		"{d8cbe7a6-c3f7-59e1-82cb-79c839effaa9}",
+		"{2c4de342-38b7-51cf-b940-2309a097f518}"
 	],
-	"settingsHash" : "611e944476c35dc3-01dce3291e0daf35",
+	"settingsHash" : "945275fa14409df7-01dce5f34b91377a",
 	"sshFolderGenerated" : false
 }
